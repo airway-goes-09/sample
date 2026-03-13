@@ -1089,10 +1089,11 @@ The below images shows that the `SecurityFilterChain` does not contain all the s
 
 
 > [!WARNING]
-> Two of our tests (the negative tests) are failing now. These tests are verifying that accessing our endpoints without
-> authentication should return a `401 Unauthorized` and not `200 OK`. But now our endpoints are not secured and does not
-> need authentication and always return `200 OK`. This makes the tests fail, and we will fix it in the upcoming
-> sections.
+> Two of our tests (`should_return_unauthorized_if_secured_endpoint_accessed_without_authorization` and
+> `should_return_unauthorized_if_secured_endpoint_accessed_by_anonymous_user`) are failing now. These are the
+> negative tests that are verifying that accessing our endpoints without authentication should return a
+> `401 Unauthorized` and not `200 OK`. But now our endpoints are not secured and does not need authentication and always
+> return `200 OK`. This makes the tests fail, and we will fix it in the upcoming sections.
 
 > [!IMPORTANT]
 > This is the beauty of having tests and especially negative tests. We can catch these kinds of bugs early and fix them
