@@ -1,4 +1,4 @@
 # sample
 
-<img width="757" height="693" alt="02-few-filters" src="https://github.com/user-attachments/assets/67a99f6d-81a8-4a71-8e92-9dff3be72723" />
-<img width="761" height="694" alt="01-all-filters" src="https://github.com/user-attachments/assets/448fcd94-e1fd-48ee-b4d1-0860afd9677f" />
+<img width="868" height="802" alt="Screenshot 2026-03-13 at 7 12 35 PM" src="https://github.com/user-attachments/assets/cbb76c62-968f-41b7-9f66-ca1172fe33b6" />
+<img width="868" height="802" alt="Screenshot 2026-03-13 at 7 11 53 PM" src="https://github.com/user-attachments/assets/a07726d7-4c3e-4745-a247-fd3432dc4a7e" />
